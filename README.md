@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-This is DevOps Project
+This is DevOps Project we are Radical Student
